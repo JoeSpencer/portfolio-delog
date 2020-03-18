@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: newtest
+path: /newtest
 date: 2020-03-18T13:58:04.977Z
 title: A Test Post
 thumbnail: /assets/755729.jpg
