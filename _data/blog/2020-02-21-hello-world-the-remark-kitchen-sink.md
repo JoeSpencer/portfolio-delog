@@ -3,7 +3,9 @@ template: BlogPost
 path: /remark-kitchen-sink
 date: 2020-02-21T12:12:25.364Z
 title: 'Hello World: The remark Kitchen Sink'
+subtitle: Sub
 thumbnail: /assets/image-6.jpg
+metaDescription: This is the description
 ---
 # h1 Heading 8-)
 
