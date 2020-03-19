@@ -5,6 +5,9 @@ date: 2020-02-20T14:59:36.571Z
 title: Dummy Content from Fillerama
 subtitle: This is the subtitle that will display
 thumbnail: /assets/image-5.jpg
+metaDescription: >-
+  Did I mention we have comfy chairs? Stop talking, brain thinking. Hush. No,
+  I'll fix it.
 ---
 # No, I'll fix it. I'm good at fixing rot. Call me the Rotmeister. No, I'm the Doctor. Don't call me the Rotmeister.
 
