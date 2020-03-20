@@ -24,7 +24,7 @@ const IndexPage = ({
         {!site.siteMetadata.w3l_dom_key ? null : <meta name="w3l-domain-verification" content={site.siteMetadata.w3l_dom_key} />}
       </Helmet>
       <HeroHeader/>
-      <h2>Blog Posts &darr;</h2>
+      <h2>The things &darr;</h2>
       <div className="grids">
         {Posts}
       </div>
@@ -46,11 +46,12 @@ export const pageQuery = graphql`
       edges {
         node {
           id
-          excerpt(pruneLength: 250)
+          excerpt(pruneLength: 400)
           frontmatter {
             date(formatString: "MMMM DD, YYYY")
             path
             title
+            metaDescription
             thumbnail
           }
         }
