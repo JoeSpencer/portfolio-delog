@@ -14,16 +14,14 @@ Sparq allows employees to securely carry critical aspects of their workday on th
 
 ## Activities
 
-Strategy
+[x] Strategy
 
-Heuristic Evaluation
+[x] Heuristic Evaluation
 
-User Research
+[x] User Research
 
-Experience Design
+[x] Experience Design
 
-Prototyping
+[x] Prototyping
 
-Visual Design
-
-![]()
+[x] Visual Design
