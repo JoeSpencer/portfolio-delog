@@ -10,7 +10,6 @@ Connected. Informed. Inspired. Those are the guiding principles that led this pr
 
 Sparq allows employees to securely carry critical aspects of their workday on their phone. The feature set is aimed at striking a balance between functionality that makes life easier and enriching content that nurtures the employee as a person.
 
-![Animation of a screen from the application](/assets/b8b63f33-64d5-4f7b-860f-1cc3423e167d.gif)
 
 ## Activities
 
@@ -25,3 +24,5 @@ Sparq allows employees to securely carry critical aspects of their workday on th
 [x] Prototyping
 
 [x] Visual Design
+
+![Animation of a screen from the application](/assets/b8b63f33-64d5-4f7b-860f-1cc3423e167d.gif)
