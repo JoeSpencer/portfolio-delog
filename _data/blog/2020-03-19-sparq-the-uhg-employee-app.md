@@ -6,4 +6,24 @@ title: 'Sparq, the UHG Employee App'
 thumbnail: /assets/PortExp.png
 metaDescription: Placeholder
 ---
-A few months ago, I was consulting an organization; helping them to make their interfaces more inclusive. I tend to be engaged because I have experience in accessible interaction design, and the implementation of technical accessibility provisions. But the advice I offer is much more comprehensive, taking in the use of language, general usability, performance, and ethics.
+Connected. Informed. Inspired. Those are the guiding principles that led this project from day one. Connecting  UHG employees to one another irregardless of the line of business they worked under. Informing them with news from leadership and around the world. Inspiring them to step forward with empathy and wisdom.
+
+Sparq allows employees to securely carry critical aspects of their workday on their phone. The feature set is aimed at striking a balance between functionality that makes life easier and enriching content that nurtures the employee as a person.
+
+![Animation of a screen from the application](/assets/b8b63f33-64d5-4f7b-860f-1cc3423e167d.gif)
+
+## Activities
+
+Strategy
+
+Heuristic Evaluation
+
+User Research
+
+Experience Design
+
+Prototyping
+
+Visual Design
+
+![]()
