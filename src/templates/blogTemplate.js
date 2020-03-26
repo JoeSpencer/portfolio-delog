@@ -14,7 +14,9 @@ export default function Template({
         <title>{frontmatter.title}</title>
         <meta name="description" content={frontmatter.metaDescription} />
       </Helmet>
-      <div className="blog-post-container">
+      <div className="blog-post-container two-grids">
+        <div className="post-thumbnail" style={{backgroundImage: `url(${frontmatter.thumbnail})`}}></div>
+
         <article className="post">
           
           {!frontmatter.thumbnail && (
@@ -24,9 +26,12 @@ export default function Template({
             </div>
           )}
           {!!frontmatter.thumbnail && (
-            <div className="post-thumbnail" style={{backgroundImage: `url(${frontmatter.thumbnail})`}}>
-              <h1 className="post-title">{frontmatter.title}</h1>
-              <div className="post-meta">{frontmatter.date}</div>
+            <div>
+            
+            
+            <h1 className="post-title">{frontmatter.title}</h1>
+           
+            <div className="post-meta">{frontmatter.date}</div>
             </div>
           )}
           <div
