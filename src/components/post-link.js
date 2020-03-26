@@ -10,9 +10,10 @@ const PostLink = ({ post }) => (
           {post.frontmatter.title}
         </Link>
       </h2>
-      <Link to={post.frontmatter.path} className="button -small">Case Study &rarr;</Link>
+      
       </div>
       <div class="post-exc">{post.excerpt}</div>
+      <Link to={post.frontmatter.path} className="button -small">Details &rarr;</Link>
     </header>
     <Link to={post.frontmatter.path}>
       {!!post.frontmatter.thumbnail && (
