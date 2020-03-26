@@ -2,7 +2,7 @@ import React from "react"
 import { Link } from "gatsby"
 
 const PostLink = ({ post }) => (
-  <article class="card ">
+  <article class="card two-grids">
     <header>
       <div class="actions">
       <h2 className="post-title">
@@ -13,7 +13,7 @@ const PostLink = ({ post }) => (
       
       </div>
       <div class="post-exc">{post.excerpt}</div>
-      <Link to={post.frontmatter.path} className="button -small">Details &rarr;</Link>
+      <Link to={post.frontmatter.path} className="button -primary">Details &rarr;</Link>
     </header>
     <Link to={post.frontmatter.path}>
       {!!post.frontmatter.thumbnail && (
